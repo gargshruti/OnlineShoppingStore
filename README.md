@@ -1,4 +1,4 @@
-# ONLINE Shopping Store
+# Online Shopping Store
 
 Hi! My name is **Shruti Garg**, I have created this Website using MERN as part of the Summer Internship at Celebal Technologies.
 Please Checkout the project at [LINK](https://onlineshoppingstore-8qdr.onrender.com/)
